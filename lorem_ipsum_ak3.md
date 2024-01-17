@@ -10,8 +10,4 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
  mollit anim id est laborum.
 
 
-ADDING SOME THINGS
-
-ADDING SOME MORE THINGS
-
-EVEN MORE THINGS
+FIXING SOME THINGS
